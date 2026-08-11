@@ -85,11 +85,6 @@ A comprehensive FastAPI project covering backend fundamentals, APIs, authenticat
 
 **Tech:** Python · FastAPI · SQLAlchemy · JWT · REST API
 
-### 🔹 Terminal Portfolio
-A terminal-inspired developer portfolio built with Astro to showcase projects, technical skills, and professional information through an interactive developer experience.
-
-**Tech:** Astro · JavaScript · HTML · CSS
-
 ---
 
 ## 🧩 Technical Expertise
@@ -202,7 +197,6 @@ I’m focused on building practical, production-oriented systems around:
 - 🐍 [FastAPI — The Complete Course](https://github.com/veera8519/FastAPI-The-Complete-Course)
 - 🗄️ [FastAPI Database Connection](https://github.com/veera8519/Fast-api--connectiondatabase)
 - ⚡ [FastAPI Web Framework](https://github.com/veera8519/FastAPI---Web-Framework)
-- 🖥️ [Terminal Portfolio](https://github.com/veera8519/veera8519-terminal-portfolio)
 
 ---
 
