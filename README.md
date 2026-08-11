@@ -48,7 +48,7 @@ My current technology focus is **Python, FastAPI, C#, .NET, ASP.NET Core, Angula
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=html5&logoColor=white)
 
 ### Database & ORM
 
@@ -89,34 +89,6 @@ A comprehensive FastAPI learning project covering backend fundamentals, APIs, au
 A terminal-inspired developer portfolio built with Astro to showcase projects, technical skills, and professional information through an interactive developer experience.
 
 **Tech:** Astro · JavaScript · HTML · CSS
-
----
-
-## 📚 Currently Learning
-
-> 🎯 **Current priority: build depth through practical projects and production-oriented engineering.**
-
-| Area | Current Focus |
-|---|---|
-| 🐍 **Python Backend** | FastAPI, REST API design, authentication, authorization, testing, and backend architecture |
-| 💙 **.NET Full Stack** | C#, .NET, ASP.NET Core, Web APIs, Entity Framework Core, dependency injection, and full-stack application architecture |
-| 🅰️ **Angular & TypeScript** | Angular fundamentals, services, routing, forms, RxJS, and API integration |
-| ⚛️ **React** | Components, hooks, state management, TypeScript, and REST API integration |
-| 🗄️ **Database Engineering** | SQLAlchemy, PostgreSQL, database architecture, SQL/NoSQL design, and query optimization |
-| ☁️ **Cloud Engineering** | Google Cloud, Docker, Cloud Run, deployment, and CI/CD |
-| 🤖 **Generative AI** | LLM fundamentals, GenAI for software development, and AI applications with Python |
-
-### Completed Foundations
-
-- ✅ FastAPI – The Complete Course
-- ✅ Modern API Development
-- ✅ Intro to FastAPI & Backend
-- ✅ The Complete SQL Bootcamp
-- ✅ Database Design: PostgreSQL
-- ✅ MongoDB – Complete Guide
-- ✅ Software Design & Architecture
-- ✅ Prompt Engineering
-- ✅ Responsible AI: Privacy & Safety
 
 ---
 
