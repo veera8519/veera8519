@@ -81,7 +81,7 @@ Database-driven backend project focused on integrating FastAPI with relational d
 **Tech:** Python · FastAPI · SQLAlchemy · SQLite
 
 ### 🔹 FastAPI — The Complete Course
-A comprehensive FastAPI learning project covering backend fundamentals, APIs, authentication, databases, and application architecture.
+A comprehensive FastAPI project covering backend fundamentals, APIs, authentication, databases, and application architecture.
 
 **Tech:** Python · FastAPI · SQLAlchemy · JWT · REST API
 
@@ -89,6 +89,22 @@ A comprehensive FastAPI learning project covering backend fundamentals, APIs, au
 A terminal-inspired developer portfolio built with Astro to showcase projects, technical skills, and professional information through an interactive developer experience.
 
 **Tech:** Astro · JavaScript · HTML · CSS
+
+---
+
+## 🧩 Technical Expertise
+
+> **Building practical, production-oriented software across backend, full-stack, cloud, databases, and AI.**
+
+| Area | Expertise |
+|---|---|
+| 🐍 **Python Backend** | FastAPI, REST API design, authentication, authorization, testing, and backend architecture |
+| 💙 **.NET Full Stack** | C#, .NET, ASP.NET Core, Web APIs, Entity Framework Core, dependency injection, and full-stack application architecture |
+| 🅰️ **Angular & TypeScript** | Angular, services, routing, forms, RxJS, and API integration |
+| ⚛️ **React** | Components, hooks, state management, TypeScript, and REST API integration |
+| 🗄️ **Database Engineering** | SQLAlchemy, PostgreSQL, database architecture, SQL/NoSQL design, and query optimization |
+| ☁️ **Cloud Engineering** | Google Cloud, Docker, Cloud Run, deployment, and CI/CD |
+| 🤖 **Generative AI** | LLMs, GenAI for software development, and AI applications with Python |
 
 ---
 
