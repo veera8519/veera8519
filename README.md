@@ -152,12 +152,12 @@ I’m continuously building practical projects around:
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Explore My Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veera8519&show_icons=true&theme=transparent&hide_border=true" height="165" alt="Veera's GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera8519&layout=compact&theme=transparent&hide_border=true" height="165" alt="Veera's top languages" />
-</p>
+- 🐍 [FastAPI — The Complete Course](https://github.com/veera8519/FastAPI-The-Complete-Course)
+- 🗄️ [FastAPI Database Connection](https://github.com/veera8519/Fast-api--connectiondatabase)
+- ⚡ [FastAPI Web Framework](https://github.com/veera8519/FastAPI---Web-Framework)
+- 🖥️ [Terminal Portfolio](https://github.com/veera8519/veera8519-terminal-portfolio)
 
 ---
 
@@ -165,11 +165,7 @@ I’m continuously building practical projects around:
 
 I'm interested in connecting with developers and technology professionals working on **Python, FastAPI, Angular, backend engineering, APIs, databases, cloud, and Generative AI**.
 
-📧 **Email:** Add your professional email
-
-💼 **LinkedIn:** Add your LinkedIn profile
-
-🌐 **Portfolio:** Add your portfolio website
+**GitHub:** [@veera8519](https://github.com/veera8519)
 
 ---
 
