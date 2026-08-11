@@ -1,21 +1,24 @@
 # Hi, I'm Veera Reddy Pandiri 👋
 
-### Software Engineer | Python | FastAPI | Angular | SQL | Cloud
+### Software Engineer | Python | FastAPI | .NET Full Stack | Angular | React | SQL | Cloud
 
-I build **scalable, reliable, and maintainable software**, with a strong focus on backend engineering, API development, databases, and cloud-ready applications.
+I build **scalable, reliable, and maintainable software**, with a strong focus on backend engineering, full-stack application development, API development, databases, and cloud-ready applications.
 
-My current learning focus is **FastAPI, database engineering, Angular & TypeScript, Google Cloud, and Generative AI**.
+My current technology focus is **Python, FastAPI, C#, .NET, ASP.NET Core, Angular, React, SQL, cloud technologies, and Generative AI**.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 💻 Software Engineer focused on backend and full-stack development
-- 🐍 Building applications with **Python & FastAPI**
+- 🐍 Building backend applications with **Python & FastAPI**
+- 💙 Building full-stack applications with **C# & .NET / ASP.NET Core**
 - 🅰️ Building modern web applications with **Angular & TypeScript**
+- ⚛️ Working with **React & JavaScript/TypeScript**
 - 🗄️ Working with **SQL, SQLite, PostgreSQL, and SQLAlchemy**
+- 🔗 Designing and integrating **REST APIs** and backend services
+- 🔐 Working with authentication, authorization, JWT, and OAuth2
 - ☁️ Developing cloud-ready applications with **Google Cloud and Docker**
-- 🔐 Learning secure API design, authentication, and authorization
 - 🤖 Exploring practical **Generative AI** for software development
 - 🧪 Focused on clean code, testing, debugging, and maintainable architecture
 
@@ -26,13 +29,16 @@ My current learning focus is **FastAPI, database engineering, Angular & TypeScri
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Backend
+### Backend & APIs
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge)
@@ -40,6 +46,7 @@ My current learning focus is **FastAPI, database engineering, Angular & TypeScri
 ### Frontend
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -64,25 +71,21 @@ My current learning focus is **FastAPI, database engineering, Angular & TypeScri
 ## 🚀 Featured Projects
 
 ### 🔹 FastAPI — Web Framework
-
 Backend development project focused on building REST APIs and applying modern FastAPI patterns.
 
 **Tech:** Python · FastAPI · REST API
 
 ### 🔹 FastAPI Database Connection
-
 Database-driven backend project focused on integrating FastAPI with relational databases and implementing CRUD operations.
 
 **Tech:** Python · FastAPI · SQLAlchemy · SQLite
 
 ### 🔹 FastAPI — The Complete Course
-
 A comprehensive FastAPI learning project covering backend fundamentals, APIs, authentication, databases, and application architecture.
 
 **Tech:** Python · FastAPI · SQLAlchemy · JWT · REST API
 
 ### 🔹 Terminal Portfolio
-
 A terminal-inspired developer portfolio built with Astro to showcase projects, technical skills, and professional information through an interactive developer experience.
 
 **Tech:** Astro · JavaScript · HTML · CSS
@@ -91,15 +94,17 @@ A terminal-inspired developer portfolio built with Astro to showcase projects, t
 
 ## 📚 Currently Learning
 
-> 🎯 **Current priority: build depth, not just certificates.**
+> 🎯 **Current priority: build depth through practical projects and production-oriented engineering.**
 
 | Area | Current Focus |
 |---|---|
-| 🐍 **Backend Engineering** | Advanced FastAPI, REST API design, authentication, authorization, and API testing |
+| 🐍 **Python Backend** | FastAPI, REST API design, authentication, authorization, testing, and backend architecture |
+| 💙 **.NET Full Stack** | C#, .NET, ASP.NET Core, Web APIs, Entity Framework Core, dependency injection, and full-stack application architecture |
+| 🅰️ **Angular & TypeScript** | Angular fundamentals, services, routing, forms, RxJS, and API integration |
+| ⚛️ **React** | Components, hooks, state management, TypeScript, and REST API integration |
 | 🗄️ **Database Engineering** | SQLAlchemy, PostgreSQL, database architecture, SQL/NoSQL design, and query optimization |
-| 🅰️ **Angular & TypeScript** | Angular fundamentals, services, routing, forms, RxJS, and FastAPI integration |
-| ☁️ **Google Cloud** | GCP fundamentals, Docker, Cloud Run, deployment, and CI/CD |
-| 🤖 **Generative AI** | LLM fundamentals, GenAI for software development, and AI agents with Python |
+| ☁️ **Cloud Engineering** | Google Cloud, Docker, Cloud Run, deployment, and CI/CD |
+| 🤖 **Generative AI** | LLM fundamentals, GenAI for software development, and AI applications with Python |
 
 ### Completed Foundations
 
@@ -118,21 +123,33 @@ A terminal-inspired developer portfolio built with Astro to showcase projects, t
 ## 🎯 Engineering Focus
 
 ```text
-Python
-   ↓
-FastAPI
-   ↓
-REST APIs + Authentication
-   ↓
-SQL + PostgreSQL + SQLAlchemy
-   ↓
-Angular + TypeScript
-   ↓
-Docker + Google Cloud
-   ↓
-Generative AI
-   ↓
-Scalable & Maintainable Systems
+                    Software Engineering
+                           │
+          ┌────────────────┴────────────────┐
+          │                                 │
+     Python Backend                    .NET Full Stack
+          │                                 │
+       FastAPI                    C# + ASP.NET Core
+          │                                 │
+          └──────────────┬──────────────────┘
+                         │
+                  REST APIs + Auth
+                         │
+              SQL + PostgreSQL + ORM
+                         │
+              ┌──────────┴──────────┐
+              │                     │
+          Angular                 React
+              │                     │
+              └──────────┬──────────┘
+                         │
+                  Docker + Cloud
+                         │
+                   Google Cloud
+                         │
+                Generative AI
+                         │
+          Scalable & Maintainable Systems
 ```
 
 ---
@@ -142,9 +159,11 @@ Scalable & Maintainable Systems
 I’m continuously building practical projects around:
 
 - RESTful APIs and backend services
-- Database-driven applications
+- **Python + FastAPI applications**
+- **C# + .NET / ASP.NET Core applications**
+- Angular and React full-stack applications
+- Database-driven applications and CRUD systems
 - Authentication and authorization
-- Angular + FastAPI full-stack applications
 - Dockerized cloud applications
 - Google Cloud deployments
 - AI-enabled software applications
@@ -163,7 +182,7 @@ I’m continuously building practical projects around:
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers and technology professionals working on **Python, FastAPI, Angular, backend engineering, APIs, databases, cloud, and Generative AI**.
+I'm interested in connecting with developers and technology professionals working on **Python, FastAPI, C#, .NET, ASP.NET Core, Angular, React, backend engineering, APIs, databases, cloud, and Generative AI**.
 
 📧 **Email:** [veera.reddy8519@gmail.com](mailto:veera.reddy8519@gmail.com)
 
