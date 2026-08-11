@@ -3,11 +3,11 @@
 ### Software Engineer | Python & FastAPI | .NET Full Stack | Angular | React | SQL | Cloud | Generative AI
 
 <p align="center">
-  <strong>Building scalable, secure, cloud-ready software with modern backend, full-stack, and AI engineering practices.</strong>
+  <strong>Building scalable, secure, cloud-ready software across backend, full-stack, cloud, and AI engineering.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/veera8519"><img src="https://img.shields.io/badge/GitHub-veera8519-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://github.com/veera-reddy-dev"><img src="https://img.shields.io/badge/GitHub-veera--reddy--dev-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Focus-Production%20Engineering-0A66C2?style=for-the-badge" alt="Production Engineering" />
   <img src="https://img.shields.io/badge/Stack-Python%20%7C%20.NET%20%7C%20Cloud-512BD4?style=for-the-badge" alt="Technology Stack" />
 </p>
@@ -22,7 +22,7 @@ I focus on turning requirements into reliable systems through **clean architectu
 
 - 🐍 **Backend:** Python, FastAPI, REST APIs, SQLAlchemy
 - 💙 **Full Stack:** C#, .NET, ASP.NET Core, Entity Framework Core
-- 🅰️ **Frontend:** Angular, TypeScript
+- 🅰️ **Frontend:** Angular, TypeScript, RxJS
 - ⚛️ **Frontend:** React, JavaScript/TypeScript
 - 🗄️ **Data:** SQL, PostgreSQL, SQLite, MongoDB
 - ☁️ **Cloud & DevOps:** Google Cloud, Cloud Run, Docker, CI/CD
@@ -56,7 +56,7 @@ I focus on turning requirements into reliable systems through **clean architectu
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Database & ORM
 
@@ -73,13 +73,12 @@ I focus on turning requirements into reliable systems through **clean architectu
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🎯 Engineering Focus
 
-> **Learn → Build → Test → Secure → Deploy → Monitor → Improve**
+> **Build → Test → Secure → Deploy → Monitor → Improve**
 
 <div align="center">
 
@@ -89,13 +88,13 @@ I focus on turning requirements into reliable systems through **clean architectu
 
 ⬇️
 
-**05 · ARCHITECTURE** ➜ **06 · SECURITY & TESTING** ➜ **07 · GENERATIVE AI** ➜ **08 · AI AGENTS**
+**05 · ARCHITECTURE** ➜ **06 · SECURITY & TESTING** ➜ **07 · GENERATIVE AI** ➜ **08 · AI AUTOMATION**
 
-🏗️ System Design / Microservices　　🔐 OWASP / JWT / Testing　　🤖 LLM / RAG　　🧠 Tools / Automation
+🏗️ System Design / Microservices　　🔐 OWASP / JWT / Testing　　🤖 LLM / RAG　　🧠 Tools / APIs
 
 <br />
 
-### 🏆 PRODUCTION-READY SOFTWARE ENGINEER
+### 🏆 PRODUCTION-FOCUSED SOFTWARE ENGINEER
 
 **Design · Develop · Test · Secure · Containerize · Deploy · Monitor · Maintain**
 
@@ -118,26 +117,29 @@ I focus on turning requirements into reliable systems through **clean architectu
 
 ---
 
-## 🚀 Featured Work
+## 🚀 Selected Work
 
-### 🔹 FastAPI — Web Framework
-Backend development project focused on building REST APIs and applying modern FastAPI patterns.
+### ⚡ FastAPI — Web Framework
 
-**Tech:** Python · FastAPI · REST API
+Backend engineering project focused on REST API development, request validation, dependency injection, authentication patterns, and maintainable FastAPI architecture.
 
-### 🔹 FastAPI Database Connection
-Database-driven backend project focused on integrating FastAPI with relational databases and implementing CRUD operations.
+**Tech:** Python · FastAPI · Pydantic · REST API · SQLAlchemy
+
+[View repository →](https://github.com/veera-reddy-dev/FastAPI---Web-Framework)
+
+### 🗄️ FastAPI Database Integration
+
+Database-backed backend project demonstrating SQLAlchemy integration, database sessions, CRUD operations, validation, and API-to-database architecture.
 
 **Tech:** Python · FastAPI · SQLAlchemy · SQLite
 
-### 🔹 FastAPI — The Complete Course
-Comprehensive FastAPI project covering backend fundamentals, APIs, authentication, databases, and application architecture.
+[View repository →](https://github.com/veera-reddy-dev/Fast-api--connectiondatabase)
 
-**Tech:** Python · FastAPI · SQLAlchemy · JWT · REST API
+> Course and tutorial repositories are kept private and are intentionally excluded from the public portfolio. This profile highlights engineering work that is most relevant to professional software development.
 
 ---
 
-## 🏗️ Production Project Roadmap
+## 🏗️ Engineering Roadmap
 
 | Project | Stack | Engineering Outcome |
 |---|---|---|
@@ -177,7 +179,7 @@ Database          → Correct, optimized, reliable
 Security          → Secure by design
 Testing           → Automated and repeatable
 DevOps            → Automated delivery
-Cloud             → Scalable and production-ready
+Cloud             → Scalable and production-focused
 AI                → Practical, responsible, measurable
 ```
 
@@ -185,9 +187,9 @@ AI                → Practical, responsible, measurable
 
 ## 📌 Explore My Work
 
-- 🐍 [FastAPI — The Complete Course](https://github.com/veera8519/FastAPI-The-Complete-Course)
-- 🗄️ [FastAPI Database Connection](https://github.com/veera8519/Fast-api--connectiondatabase)
-- ⚡ [FastAPI Web Framework](https://github.com/veera8519/FastAPI---Web-Framework)
+- ⚡ [FastAPI Web Framework](https://github.com/veera-reddy-dev/FastAPI---Web-Framework)
+- 🗄️ [FastAPI Database Integration](https://github.com/veera-reddy-dev/Fast-api--connectiondatabase)
+- 👤 [GitHub Profile](https://github.com/veera-reddy-dev)
 
 ---
 
@@ -197,7 +199,7 @@ I'm interested in connecting with engineers and technology professionals working
 
 📧 **Email:** [veera.reddy8519@gmail.com](mailto:veera.reddy8519@gmail.com)
 
-🐙 **GitHub:** [@veera8519](https://github.com/veera8519)
+🐙 **GitHub:** [@veera-reddy-dev](https://github.com/veera-reddy-dev)
 
 ---
 
