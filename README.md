@@ -1,23 +1,23 @@
 # Hi, I'm Veera Reddy Pandiri 👋
 
-### Software Engineer | Python | FastAPI | React | SQL | Cloud
+### Software Engineer | Python | FastAPI | Angular | SQL | Cloud
 
-I’m a Software Engineer focused on building **scalable, reliable, and maintainable applications**. I enjoy working across backend and full-stack development, designing APIs, working with databases, and building cloud-ready solutions.
+I build **scalable, reliable, and maintainable applications**, with a strong focus on backend engineering, API development, databases, and cloud-ready solutions.
 
-Currently focused on strengthening my expertise in **Python, FastAPI, React, SQL, cloud technologies, and modern software engineering practices**.
+My current focus is **Python, FastAPI, Angular, SQL, cloud technologies, and modern software engineering practices**.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 💻 Software Engineer focused on backend and full-stack development
-- 🐍 Building applications with **Python & FastAPI**
-- ⚛️ Developing modern interfaces with **React**
+- 🐍 Building production-oriented applications with **Python & FastAPI**
+- 🅰️ Building modern web applications with **Angular**
 - 🗄️ Working with **SQL, SQLite, and relational databases**
-- ☁️ Exploring and building with **cloud technologies**
-- 🔐 Interested in API security, authentication, and scalable architectures
-- 🧪 Practicing clean code, testing, debugging, and API development
-- 🚀 Building projects to continuously improve my engineering skills
+- ☁️ Building and learning **cloud-ready applications**
+- 🔐 Interested in API security, authentication, authorization, and scalable architectures
+- 🧪 Focused on clean code, debugging, testing, and maintainable APIs
+- 🚀 Continuously building projects to sharpen practical engineering skills
 
 ---
 
@@ -26,6 +26,7 @@ Currently focused on strengthening my expertise in **Python, FastAPI, React, SQL
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend
@@ -33,11 +34,11 @@ Currently focused on strengthening my expertise in **Python, FastAPI, React, SQL
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Database
+### Database & ORM
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
@@ -54,22 +55,22 @@ Currently focused on strengthening my expertise in **Python, FastAPI, React, SQL
 ## 🚀 Featured Projects
 
 ### 🔹 FastAPI — Web Framework
-A practical FastAPI project focused on building REST APIs and understanding modern backend development.
+Backend development project focused on building REST APIs and applying modern FastAPI patterns.
 
 **Tech:** Python · FastAPI · REST API
 
 ### 🔹 FastAPI Database Connection
-Backend project focused on connecting FastAPI applications with relational databases and implementing database operations.
+Database-driven backend project focused on integrating FastAPI with relational databases and implementing CRUD operations.
 
 **Tech:** Python · FastAPI · SQLAlchemy · SQLite
 
 ### 🔹 FastAPI — The Complete Course
-A collection of FastAPI learning and development work covering backend fundamentals, APIs, authentication, databases, and application architecture.
+A comprehensive FastAPI learning project covering backend fundamentals, APIs, authentication, databases, and application architecture.
 
 **Tech:** Python · FastAPI · SQLAlchemy · JWT · REST API
 
 ### 🔹 Terminal Portfolio
-A terminal-inspired developer portfolio built with Astro, designed to showcase projects, technical skills, and professional information through an interactive developer experience.
+A terminal-inspired developer portfolio built with Astro to showcase projects, technical skills, and professional information through an interactive developer experience.
 
 **Tech:** Astro · JavaScript · HTML · CSS
 
@@ -77,12 +78,12 @@ A terminal-inspired developer portfolio built with Astro, designed to showcase p
 
 ## 📚 Currently Learning
 
-- Advanced **FastAPI**
+- Advanced **FastAPI** development
 - **SQLAlchemy** and database architecture
-- REST API design
+- REST API design and best practices
 - Authentication & authorization
 - JWT & OAuth2
-- React application development
+- **Angular & TypeScript** application development
 - Docker & containerization
 - Google Cloud Platform
 - Scalable backend architecture
@@ -93,7 +94,7 @@ A terminal-inspired developer portfolio built with Astro, designed to showcase p
 ## 🎯 Engineering Focus
 
 ```text
-Backend Development
+Backend Engineering
         ↓
 Python + FastAPI
         ↓
@@ -101,7 +102,7 @@ REST APIs + Authentication
         ↓
 SQL + Database Design
         ↓
-React + Full-Stack Applications
+Angular + TypeScript
         ↓
 Docker + Cloud
         ↓
@@ -126,8 +127,8 @@ I’m continuously building and improving projects around:
 - RESTful APIs
 - Backend services
 - Database-driven applications
-- Authentication systems
-- Full-stack applications
+- Authentication and authorization systems
+- Angular full-stack applications
 - Cloud-ready services
 - Developer tooling and portfolio projects
 
@@ -135,7 +136,7 @@ I’m continuously building and improving projects around:
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers, engineers, and technology professionals working on **Python, backend engineering, APIs, cloud technologies, and full-stack development**.
+I'm interested in connecting with developers, engineers, and technology professionals working on **Python, FastAPI, Angular, backend engineering, APIs, databases, and cloud technologies**.
 
 📧 **Email:** Add your professional email
 
@@ -149,7 +150,7 @@ I'm interested in connecting with developers, engineers, and technology professi
 
 > **Build it. Understand it. Improve it. Ship it.**
 
-I believe the best way to grow as an engineer is to continuously **build real projects, understand the underlying technology, solve problems, and improve through iteration.**
+I believe the best way to grow as an engineer is to continuously **build real projects, understand the technology underneath them, solve problems, and improve through iteration.**
 
 ---
 
