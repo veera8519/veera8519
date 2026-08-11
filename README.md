@@ -4,7 +4,7 @@
 
 I build **scalable, reliable, and maintainable software**, with a strong focus on backend engineering, full-stack application development, API development, databases, and cloud-ready applications.
 
-My current technology focus is **Python, FastAPI, C#, .NET, ASP.NET Core, Angular, React, SQL, cloud technologies, and Generative AI**.
+My technology focus is **Python, FastAPI, C#, .NET, ASP.NET Core, Angular, React, SQL, cloud technologies, and Generative AI**.
 
 ---
 
@@ -19,7 +19,7 @@ My current technology focus is **Python, FastAPI, C#, .NET, ASP.NET Core, Angula
 - 🔗 Designing and integrating **REST APIs** and backend services
 - 🔐 Working with authentication, authorization, JWT, and OAuth2
 - ☁️ Developing cloud-ready applications with **Google Cloud and Docker**
-- 🤖 Exploring practical **Generative AI** for software development
+- 🤖 Applying **Generative AI** to practical software development
 - 🧪 Focused on clean code, testing, debugging, and maintainable architecture
 
 ---
@@ -108,43 +108,81 @@ A terminal-inspired developer portfolio built with Astro to showcase projects, t
 
 ---
 
-## 🎯 Engineering Focus
+## 🎯 Engineering Roadmap
+
+> **Learn → Build → Test → Deploy → Improve**
+
+<div align="center">
+
+**01 · BACKEND**  ➜  **02 · .NET FULL STACK**  ➜  **03 · DATABASES**  ➜  **04 · CLOUD & DEVOPS**
+
+🐍 Python / FastAPI　　💙 C# / ASP.NET Core　　🗄️ SQL / PostgreSQL　　☁️ Docker / GCP / CI/CD
+
+⬇️
+
+**05 · ARCHITECTURE**  ➜  **06 · SECURITY & TESTING**  ➜  **07 · GENERATIVE AI**  ➜  **08 · AI AGENTS**
+
+🏗️ System Design / Microservices　　🔐 OWASP / JWT / Testing　　🤖 LLM / RAG　　🧠 Tools / Automation
+
+<br>
+
+### 🏆 PRODUCTION-READY SOFTWARE ENGINEER
+
+**Design · Develop · Test · Secure · Containerize · Deploy · Monitor · Maintain**
+
+</div>
+
+### 🔥 Engineering Progression
 
 ```text
-                    Software Engineering
-                           │
-          ┌────────────────┴────────────────┐
-          │                                 │
-     Python Backend                    .NET Full Stack
-          │                                 │
-       FastAPI                    C# + ASP.NET Core
-          │                                 │
-          └──────────────┬──────────────────┘
-                         │
-                  REST APIs + Auth
-                         │
-              SQL + PostgreSQL + ORM
-                         │
-              ┌──────────┴──────────┐
-              │                     │
-          Angular                 React
-              │                     │
-              └──────────┬──────────┘
-                         │
-                  Docker + Cloud
-                         │
-                   Google Cloud
-                         │
-                Generative AI
-                         │
-          Scalable & Maintainable Systems
+Software Engineering
+        │
+        ├── 🐍 Backend Engineering
+        │      └── Python + FastAPI + REST APIs
+        │
+        ├── 💙 .NET Full Stack
+        │      └── C# + ASP.NET Core + Angular/React
+        │
+        ├── 🗄️ Database Engineering
+        │      └── SQL + PostgreSQL + ORM + Optimization
+        │
+        ├── ☁️ Cloud & DevOps
+        │      └── Docker + GCP + CI/CD
+        │
+        ├── 🏗️ Architecture
+        │      └── Clean Architecture + Microservices + Scalability
+        │
+        ├── 🔐 Security & Testing
+        │      └── OWASP + JWT/OAuth2 + Unit/Integration Testing
+        │
+        ├── 🤖 Generative AI
+        │      └── LLMs + RAG + AI Applications
+        │
+        └── 🧠 AI Agents
+               └── Tool Calling + Automation + Engineering Agents
+
+                         ↓
+
+              🏆 PRODUCTION-READY ENGINEERING
 ```
+
+---
+
+## 🏗️ Production Project Portfolio
+
+| Project | Technology | Engineering Goal |
+|---|---|---|
+| 🚀 **Production API Platform** | FastAPI · PostgreSQL · Docker · GCP | Backend engineering |
+| 💙 **Enterprise Full Stack App** | .NET · Angular/React · EF Core | Full-stack engineering |
+| 🧩 **Microservices Platform** | .NET/FastAPI · Docker · APIs | Distributed architecture |
+| 🤖 **AI Application** | Python · LLM · RAG · PostgreSQL | Generative AI engineering |
+| 🧠 **AI Engineering Agent** | Python · Agents · Tools · APIs | AI automation |
 
 ---
 
 ## 🔥 What I'm Building
 
-I’m continuously building practical projects around:
+I’m focused on building practical, production-oriented systems around:
 
 - RESTful APIs and backend services
 - **Python + FastAPI applications**
@@ -155,7 +193,7 @@ I’m continuously building practical projects around:
 - Dockerized cloud applications
 - Google Cloud deployments
 - AI-enabled software applications
-- Developer tooling and portfolio projects
+- Developer tooling and engineering automation
 
 ---
 
