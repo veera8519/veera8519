@@ -165,6 +165,8 @@ I’m continuously building practical projects around:
 
 I'm interested in connecting with developers and technology professionals working on **Python, FastAPI, Angular, backend engineering, APIs, databases, cloud, and Generative AI**.
 
+📧 **Email:** [veera.reddy8519@gmail.com](mailto:veera.reddy8519@gmail.com)
+
 **GitHub:** [@veera8519](https://github.com/veera8519)
 
 ---
