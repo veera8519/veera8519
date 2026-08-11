@@ -1,52 +1,71 @@
 # Hi, I'm Veera Reddy Pandiri 👋
 
-### Software Engineer | Python & FastAPI | .NET Full Stack | Angular | React | SQL | Cloud | Generative AI
+### Senior Software Engineer | .NET Full Stack | Python & FastAPI | Angular | React | Cloud | Generative AI
 
 <p align="center">
-  <strong>Building scalable, secure, cloud-ready software across backend, full-stack, cloud, and AI engineering.</strong>
+  <strong>Building scalable, secure, maintainable, and cloud-ready software across backend, full-stack, cloud, and AI engineering.</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/veera-reddy-dev"><img src="https://img.shields.io/badge/GitHub-veera--reddy--dev-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Focus-Production%20Engineering-0A66C2?style=for-the-badge" alt="Production Engineering" />
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20.NET%20%7C%20Cloud-512BD4?style=for-the-badge" alt="Technology Stack" />
+  <img src="https://img.shields.io/badge/Stack-.NET%20%7C%20Python%20%7C%20Cloud-512BD4?style=for-the-badge" alt=".NET Python Cloud" />
+  <img src="https://img.shields.io/badge/AI-LLM%20%7C%20RAG%20%7C%20Agents-412991?style=for-the-badge" alt="Generative AI" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a Software Engineer focused on building **production-oriented backend and full-stack applications**. My engineering work spans **Python/FastAPI, C#/.NET, Angular, React, SQL, cloud infrastructure, and Generative AI**.
+I’m a **Senior Software Engineer** focused on building production-oriented backend and full-stack applications. My professional experience is centered on the **Microsoft .NET ecosystem**, with current engineering focus across **Python/FastAPI, Angular, React, SQL, cloud platforms, DevOps, and Generative AI**.
 
-I focus on turning requirements into reliable systems through **clean architecture, secure APIs, database design, automated testing, containerization, CI/CD, and cloud deployment**.
+I design and build reliable systems through **clean architecture, secure APIs, database engineering, automated testing, containerization, CI/CD, observability, and cloud deployment**.
 
-- 🐍 **Backend:** Python, FastAPI, REST APIs, SQLAlchemy
-- 💙 **Full Stack:** C#, .NET, ASP.NET Core, Entity Framework Core
-- 🅰️ **Frontend:** Angular, TypeScript, RxJS
-- ⚛️ **Frontend:** React, JavaScript/TypeScript
-- 🗄️ **Data:** SQL, PostgreSQL, SQLite, MongoDB
-- ☁️ **Cloud & DevOps:** Google Cloud, Cloud Run, Docker, CI/CD
+- 💙 **.NET:** C#, .NET 8, ASP.NET Core, Web API, MVC, Entity Framework Core
+- 🐍 **Backend:** Python, FastAPI, Pydantic, SQLAlchemy, REST APIs
+- 🖥️ **Frontend:** Angular, React, TypeScript, JavaScript, RxJS
+- 🗄️ **Data:** SQL, PostgreSQL, SQL Server, SQLite, MongoDB
+- ☁️ **Cloud & DevOps:** Azure, Google Cloud, Cloud Run, Docker, CI/CD
 - 🔐 **Security:** JWT, OAuth2, authentication, authorization, OWASP practices
-- 🧪 **Quality:** Unit testing, integration testing, API testing, clean code
-- 🤖 **AI:** LLMs, Generative AI, RAG, AI-assisted software development
+- 🧪 **Engineering Quality:** unit testing, integration testing, API testing, code reviews
+- 🤖 **AI:** LLMs, RAG, Generative AI, AI applications, AI agents
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Skills
+
+| Skill Area | Technologies & Expertise |
+|---|---|
+| 💙 **.NET Full Stack** | C# · .NET 8 · ASP.NET Core · Web API · MVC · Entity Framework Core · WPF · WCF |
+| 🐍 **Backend Engineering** | Python · FastAPI · REST APIs · Pydantic · SQLAlchemy · Dependency Injection |
+| 🅰️ **Angular** | Angular · TypeScript · RxJS · Components · Services · Routing · Forms · API Integration |
+| ⚛️ **React** | React · JavaScript · TypeScript · Hooks · Components · REST API Integration |
+| 🗄️ **Database Engineering** | SQL · PostgreSQL · SQL Server · SQLite · MongoDB · Database Design · Query Optimization |
+| 🏗️ **Architecture** | Clean Architecture · Microservices · MVC · SOLID · Design Patterns · Scalable APIs · Distributed Systems |
+| ☁️ **Cloud & DevOps** | Microsoft Azure · Google Cloud · Cloud Run · Docker · GitHub Actions · Azure DevOps · CI/CD |
+| 🔐 **Security** | JWT · OAuth2 · Authentication · Authorization · OWASP Practices · Secure API Design |
+| 🧪 **Testing & Quality** | Unit Testing · Integration Testing · API Testing · Debugging · Code Reviews · Clean Code |
+| 🤖 **Generative AI** | LLMs · RAG · AI Applications · Prompt Engineering · AI-assisted Development |
+| 🧠 **AI Engineering** | AI Agents · Tools · APIs · Automation · Developer Productivity |
+| 🔧 **Engineering Tools** | Git · GitHub · VS Code · Visual Studio · Postman · JIRA · Confluence |
+
+---
+
+## 💻 Technology Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend & APIs
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge)
@@ -58,9 +77,10 @@ I focus on turning requirements into reliable systems through **clean architectu
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Database & ORM
+### Data & ORM
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
@@ -68,6 +88,7 @@ I focus on turning requirements into reliable systems through **clean architectu
 
 ### Cloud, DevOps & Tools
 
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -78,67 +99,23 @@ I focus on turning requirements into reliable systems through **clean architectu
 
 ## 🎯 Engineering Focus
 
-> **Build → Test → Secure → Deploy → Monitor → Improve**
+> **Design → Develop → Test → Secure → Containerize → Deploy → Monitor → Improve**
 
-<div align="center">
-
-**01 · BACKEND** ➜ **02 · .NET FULL STACK** ➜ **03 · DATABASES** ➜ **04 · CLOUD & DEVOPS**
-
-🐍 Python / FastAPI　　💙 C# / ASP.NET Core　　🗄️ SQL / PostgreSQL　　☁️ Docker / GCP / CI/CD
-
-⬇️
-
-**05 · ARCHITECTURE** ➜ **06 · SECURITY & TESTING** ➜ **07 · GENERATIVE AI** ➜ **08 · AI AUTOMATION**
-
-🏗️ System Design / Microservices　　🔐 OWASP / JWT / Testing　　🤖 LLM / RAG　　🧠 Tools / APIs
-
-<br />
-
-### 🏆 PRODUCTION-FOCUSED SOFTWARE ENGINEER
-
-**Design · Develop · Test · Secure · Containerize · Deploy · Monitor · Maintain**
-
-</div>
-
----
-
-## 🛠️ Skills
-
-| Skill Area | Technologies & Expertise |
+| Focus | Engineering Practice |
 |---|---|
-| 🐍 **Backend Development** | Python · FastAPI · REST APIs · Pydantic · SQLAlchemy |
-| 💙 **.NET Full Stack** | C# · .NET · ASP.NET Core · Web APIs · Entity Framework Core |
-| 🅰️ **Frontend Development** | Angular · TypeScript · RxJS · HTML5 · CSS3 |
-| ⚛️ **React Development** | React · JavaScript · TypeScript · Hooks · REST API Integration |
-| 🗄️ **Database Engineering** | SQL · PostgreSQL · SQLite · MongoDB · Database Design · Query Optimization |
-| ☁️ **Cloud & DevOps** | Google Cloud · Cloud Run · Docker · GitHub Actions · CI/CD |
-| 🔐 **Security** | JWT · OAuth2 · Authentication · Authorization · OWASP Practices |
-| 🧪 **Testing & Quality** | Unit Testing · Integration Testing · API Testing · Clean Code |
-| 🤖 **Generative AI** | LLMs · RAG · AI Applications · Prompt Engineering · AI-assisted Development |
-| 🧠 **AI Engineering** | AI Agents · Tools · APIs · Automation · Developer Productivity |
-| 🏗️ **Software Architecture** | Clean Architecture · Microservices · Scalable Systems · API Architecture |
-| 🔧 **Developer Tools** | Git · GitHub · VS Code · Postman · REST APIs |
-
----
-
-## 🧩 Technical Expertise
-
-| Area | Core Capabilities |
-|---|---|
-| 🐍 **Python Backend** | FastAPI, REST APIs, authentication, authorization, testing, backend architecture |
-| 💙 **.NET Full Stack** | C#, .NET, ASP.NET Core, Web APIs, EF Core, dependency injection, full-stack architecture |
-| 🅰️ **Angular & TypeScript** | Components, services, routing, forms, RxJS, API integration |
-| ⚛️ **React** | Components, hooks, state management, TypeScript, REST API integration |
-| 🗄️ **Database Engineering** | SQL, PostgreSQL, SQLAlchemy, EF Core, relational design, optimization |
-| ☁️ **Cloud Engineering** | Google Cloud, Cloud Run, Docker, CI/CD, deployment |
-| 🔐 **Security & Quality** | JWT, OAuth2, OWASP, unit testing, integration testing, API testing |
-| 🤖 **Generative AI** | LLMs, RAG, AI applications, AI-assisted software development |
+| 🧩 **Backend** | Production APIs, business logic, validation, dependency injection |
+| 🏗️ **Architecture** | Clean architecture, SOLID, microservices, scalable system design |
+| 🗄️ **Data** | Relational modeling, SQL, ORM, performance and reliability |
+| 🔐 **Security** | Authentication, authorization, JWT, OAuth2, secure API design |
+| 🧪 **Quality** | Automated testing, code review, debugging, maintainability |
+| ☁️ **Cloud** | Containerized applications, cloud deployment, CI/CD |
+| 🤖 **AI Engineering** | LLM applications, RAG, agents, tools, developer automation |
 
 ---
 
 ## 🚀 Selected Work
 
-### ⚡ FastAPI — Web Framework
+### ⚡ FastAPI Web Framework
 
 Backend engineering project focused on REST API development, request validation, dependency injection, authentication patterns, and maintainable FastAPI architecture.
 
@@ -154,38 +131,36 @@ Database-backed backend project demonstrating SQLAlchemy integration, database s
 
 [View repository →](https://github.com/veera-reddy-dev/Fast-api--connectiondatabase)
 
-> Course and tutorial repositories are kept private and are intentionally excluded from the public portfolio. This profile highlights engineering work that is most relevant to professional software development.
+> Course and tutorial repositories are intentionally excluded from the public portfolio. This profile highlights engineering work most relevant to professional software development.
 
 ---
 
-## 🔥 What I'm Building
+## 🔥 Current Engineering Focus
 
-I’m focused on practical systems involving:
+I’m currently deepening practical expertise in:
 
-- RESTful APIs and backend services
-- **Python + FastAPI applications**
-- **C# + .NET / ASP.NET Core applications**
-- Angular and React full-stack applications
-- Database-driven applications
-- Authentication and authorization
-- Dockerized cloud applications
-- Google Cloud deployments
-- CI/CD automation
-- AI-enabled software applications
-- Developer tooling and engineering automation
+- **Python + FastAPI** backend engineering
+- **C# + .NET 8 / ASP.NET Core** application development
+- **Angular + React** full-stack applications
+- **SQL + PostgreSQL** database engineering
+- **Docker + Google Cloud + Azure** cloud-native development
+- **CI/CD and production engineering practices**
+- **LLM, RAG, and Generative AI applications**
+- **AI agents, tools, APIs, and developer automation**
 
 ---
 
-## 📊 Engineering Principles
+## 📐 Engineering Principles
 
 ```text
 Clean Code        → Readable, maintainable, testable
-API Design        → Secure, consistent, versioned
+SOLID             → Strong object-oriented design
+API Design        → Secure, consistent, predictable
 Architecture      → Modular, scalable, observable
 Database          → Correct, optimized, reliable
 Security          → Secure by design
 Testing           → Automated and repeatable
-DevOps            → Automated delivery
+DevOps            → Automated, reproducible delivery
 Cloud             → Scalable and production-focused
 AI                → Practical, responsible, measurable
 ```
@@ -202,7 +177,7 @@ AI                → Practical, responsible, measurable
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with engineers and technology professionals working on **Python, FastAPI, C#, .NET, ASP.NET Core, Angular, React, backend engineering, APIs, databases, cloud, DevOps, and Generative AI**.
+I'm interested in connecting with engineers and technology professionals working on **.NET, C#, Python, FastAPI, Angular, React, backend engineering, APIs, databases, cloud, DevOps, and Generative AI**.
 
 📧 **Email:** [veera.reddy8519@gmail.com](mailto:veera.reddy8519@gmail.com)
 
@@ -214,7 +189,7 @@ I'm interested in connecting with engineers and technology professionals working
 
 > **Build it. Understand it. Improve it. Ship it.**
 
-Strong engineering comes from **building real systems, understanding the technology underneath them, solving meaningful problems, and continuously improving through iteration.**
+I believe strong engineering comes from building real systems, understanding the technology underneath them, solving meaningful problems, and continuously improving through iteration.
 
 ---
 
