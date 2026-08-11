@@ -6,71 +6,79 @@
 
 | Priority | Track | Status |
 |---|---|---|
-| 🔴 P0 | Backend Engineering | In progress |
-| 🔴 P0 | Database Engineering | In progress |
-| 🔴 P0 | Angular & TypeScript | Planned |
-| 🔴 P0 | Google Cloud | Planned |
-| 🟠 P1 | Generative AI Engineering | In progress |
-| 🟠 P1 | System Design & Architecture | In progress |
-| 🟡 P2 | Security | Planned |
-| 🟡 P2 | Testing & Quality | Planned |
-| 🟢 P3 | Performance Engineering | Planned |
+| 🔵 CURRENT | Backend Engineering | **Currently Learning** |
+| 🔵 CURRENT | Database Engineering | **Currently Learning** |
+| 🔵 CURRENT | Angular & TypeScript | **Currently Learning** |
+| 🔵 CURRENT | Google Cloud | **Currently Learning** |
+| 🔵 CURRENT | Generative AI Engineering | **Currently Learning** |
+| 🟠 NEXT | System Design & Architecture | Next |
+| 🟡 LATER | Security | Planned |
+| 🟡 LATER | Testing & Quality | Planned |
+| 🟢 LATER | Performance Engineering | Planned |
 
 ---
 
-## 1. 🐍 Backend Engineering — P0
+# 🔥 CURRENT LEARNING
+
+These are the areas currently receiving the most attention. The goal is to build practical projects alongside the learning rather than simply collecting certificates.
+
+## 1. 🐍 Backend Engineering — CURRENT
 
 ### Completed
 - ✅ FastAPI – The Complete Course
 - ✅ Modern API Development
 - ✅ Intro to FastAPI & Backend
 
-### Next
-- ⬜ Mastering REST APIs with FastAPI
-- ⬜ Microservices Architecture
-- ⬜ API Testing with Postman
-- ⬜ Protecting & Managing APIs
+### Currently Learning
+- 🔄 Mastering REST APIs with FastAPI
+- 🔄 API testing with Postman
+- 🔄 Protecting & Managing APIs
+- 🔄 Microservices Architecture
 
 **Target:** Build production-ready REST APIs with authentication, validation, database integration, testing, observability, and scalable architecture.
 
 ---
 
-## 2. 🗄️ Database Engineering — P0
+## 2. 🗄️ Database Engineering — CURRENT
 
 ### Completed
 - ✅ The Complete SQL Bootcamp
 - ✅ Database Design: PostgreSQL
 - ✅ MongoDB – Complete Guide
 
-### Next
-- ⬜ SQL & NoSQL Design Masterclass
-- ⬜ Relational Database Design
-- ⬜ Database Internals / Hussein Nasser
+### Currently Learning
+- 🔄 SQL & NoSQL Design Masterclass
+- 🔄 Relational Database Design
+- 🔄 Database Internals / Hussein Nasser
 
 **Target:** Design, query, optimize, and troubleshoot production databases.
 
 ---
 
-## 3. 🅰️ Angular & TypeScript — P0
+## 3. 🅰️ Angular & TypeScript — CURRENT
 
-### Next
-- ⬜ TypeScript fundamentals
-- ⬜ Angular fundamentals
-- ⬜ Angular services, routing, forms, and RxJS
-- ⬜ Angular + FastAPI integration
-- ⬜ Build a production-style full-stack application
+### Currently Learning
+- 🔄 TypeScript fundamentals
+- 🔄 Angular fundamentals
+- 🔄 Angular services, routing, forms, and RxJS
+- 🔄 Angular + FastAPI integration
+
+### Next Project
+- ⬜ Build a production-style Angular + FastAPI full-stack application
 
 **Target:** Build maintainable Angular frontends integrated with FastAPI backends.
 
 ---
 
-## 4. ☁️ Google Cloud — P0
+## 4. ☁️ Google Cloud — CURRENT
+
+### Currently Learning
+- 🔄 GCP fundamentals
+- 🔄 Docker & containerization
+- 🔄 GCP Associate Cloud Engineer
+- 🔄 Cloud Run deployment
 
 ### Next
-- ⬜ GCP fundamentals
-- ⬜ Docker & containerization
-- ⬜ GCP Associate Cloud Engineer
-- ⬜ Cloud Run deployment
 - ⬜ CI/CD for cloud applications
 - ⬜ Professional Cloud Developer
 
@@ -78,22 +86,24 @@
 
 ---
 
-## 5. 🤖 Generative AI Engineering — P1
+## 5. 🤖 Generative AI Engineering — CURRENT
 
 ### Completed
 - ✅ Prompt Engineering
 - ✅ Responsible AI: Privacy & Safety
 
-### Next
-- ⬜ Generative AI with LLMs
-- ⬜ Generative AI for Software Development
-- ⬜ AI Agents and Agentic AI with Python & Generative AI
+### Currently Learning
+- 🔄 Generative AI with LLMs
+- 🔄 Generative AI for Software Development
+- 🔄 AI Agents and Agentic AI with Python & Generative AI
 
 **Target:** Build practical AI-enabled software and integrate LLM capabilities into applications and engineering workflows.
 
 ---
 
-## 6. 🏗️ System Design & Architecture — P1
+# 🟠 NEXT FOCUS
+
+## 6. 🏗️ System Design & Architecture — NEXT
 
 ### Completed
 - ✅ Software Design & Architecture
@@ -107,48 +117,39 @@
 
 ---
 
-## 7. 🔐 Security — P2
+# 🟡 LATER
+
+## 7. 🔐 Security
 
 ### Completed
 - ✅ Responsible AI: Privacy & Safety
 
-### Next
+### Planned
 - ⬜ OWASP Top 10
 - ⬜ API Security
 - ⬜ Software Security
 - ⬜ Authentication & Authorization
 
-**Target:** Secure APIs, applications, databases, and cloud workloads using practical security principles.
+## 8. 🧪 Testing & Quality
 
----
-
-## 8. 🧪 Testing & Quality — P2
-
-### Next
-- ⬜ API testing with Postman
+### Planned
 - ⬜ Automated backend testing
 - ⬜ GenAI in Software Testing
 - ⬜ Test-driven development fundamentals
 
-**Target:** Build software that is reliable, testable, and maintainable.
+## 9. ⚡ Performance Engineering
 
----
-
-## 9. ⚡ Performance Engineering — P3
-
-### Next
+### Planned
 - ⬜ Performance Optimization & Scalability
 - ⬜ Python Performance Optimization
 - ⬜ Database query optimization
 - ⬜ API performance and caching
 
-**Target:** Diagnose bottlenecks and improve application performance based on measurable data.
-
 ---
 
 # 🚀 Project-Based Learning
 
-Courses are only valuable when converted into practical engineering experience.
+The objective is to convert current learning into demonstrable engineering experience.
 
 ### Project 1 — Production FastAPI API
 
