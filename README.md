@@ -2,74 +2,87 @@
 
 ### Software Engineer | Python | FastAPI | Angular | SQL | Cloud
 
-I build **scalable, reliable, and maintainable applications**, with a strong focus on backend engineering, API development, databases, and cloud-ready solutions.
+I build **scalable, reliable, and maintainable software**, with a strong focus on backend engineering, API development, databases, and cloud-ready applications.
 
-My current focus is **Python, FastAPI, Angular, SQL, cloud technologies, and modern software engineering practices**.
+My current learning focus is **FastAPI, database engineering, Angular & TypeScript, Google Cloud, and Generative AI**.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 💻 Software Engineer focused on backend and full-stack development
-- 🐍 Building production-oriented applications with **Python & FastAPI**
-- 🅰️ Building modern web applications with **Angular**
-- 🗄️ Working with **SQL, SQLite, and relational databases**
-- ☁️ Building and learning **cloud-ready applications**
-- 🔐 Interested in API security, authentication, authorization, and scalable architectures
-- 🧪 Focused on clean code, debugging, testing, and maintainable APIs
-- 🚀 Continuously building projects to sharpen practical engineering skills
+- 🐍 Building applications with **Python & FastAPI**
+- 🅰️ Building modern web applications with **Angular & TypeScript**
+- 🗄️ Working with **SQL, SQLite, PostgreSQL, and SQLAlchemy**
+- ☁️ Developing cloud-ready applications with **Google Cloud and Docker**
+- 🔐 Learning secure API design, authentication, and authorization
+- 🤖 Exploring practical **Generative AI** for software development
+- 🧪 Focused on clean code, testing, debugging, and maintainable architecture
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Backend
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-3C3C3D?style=for-the-badge)
 
 ### Frontend
+
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Database & ORM
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ### Cloud & Tools
+
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🔹 FastAPI — Web Framework
+
 Backend development project focused on building REST APIs and applying modern FastAPI patterns.
 
 **Tech:** Python · FastAPI · REST API
 
 ### 🔹 FastAPI Database Connection
+
 Database-driven backend project focused on integrating FastAPI with relational databases and implementing CRUD operations.
 
 **Tech:** Python · FastAPI · SQLAlchemy · SQLite
 
 ### 🔹 FastAPI — The Complete Course
+
 A comprehensive FastAPI learning project covering backend fundamentals, APIs, authentication, databases, and application architecture.
 
 **Tech:** Python · FastAPI · SQLAlchemy · JWT · REST API
 
 ### 🔹 Terminal Portfolio
+
 A terminal-inspired developer portfolio built with Astro to showcase projects, technical skills, and professional information through an interactive developer experience.
 
 **Tech:** Astro · JavaScript · HTML · CSS
@@ -78,65 +91,79 @@ A terminal-inspired developer portfolio built with Astro to showcase projects, t
 
 ## 📚 Currently Learning
 
-- Advanced **FastAPI** development
-- **SQLAlchemy** and database architecture
-- REST API design and best practices
-- Authentication & authorization
-- JWT & OAuth2
-- **Angular & TypeScript** application development
-- Docker & containerization
-- Google Cloud Platform
-- Scalable backend architecture
-- Clean architecture and software engineering best practices
+> 🎯 **Current priority: build depth, not just certificates.**
+
+| Area | Current Focus |
+|---|---|
+| 🐍 **Backend Engineering** | Advanced FastAPI, REST API design, authentication, authorization, and API testing |
+| 🗄️ **Database Engineering** | SQLAlchemy, PostgreSQL, database architecture, SQL/NoSQL design, and query optimization |
+| 🅰️ **Angular & TypeScript** | Angular fundamentals, services, routing, forms, RxJS, and FastAPI integration |
+| ☁️ **Google Cloud** | GCP fundamentals, Docker, Cloud Run, deployment, and CI/CD |
+| 🤖 **Generative AI** | LLM fundamentals, GenAI for software development, and AI agents with Python |
+
+### Completed Foundations
+
+- ✅ FastAPI – The Complete Course
+- ✅ Modern API Development
+- ✅ Intro to FastAPI & Backend
+- ✅ The Complete SQL Bootcamp
+- ✅ Database Design: PostgreSQL
+- ✅ MongoDB – Complete Guide
+- ✅ Software Design & Architecture
+- ✅ Prompt Engineering
+- ✅ Responsible AI: Privacy & Safety
 
 ---
 
 ## 🎯 Engineering Focus
 
 ```text
-Backend Engineering
-        ↓
-Python + FastAPI
-        ↓
+Python
+   ↓
+FastAPI
+   ↓
 REST APIs + Authentication
-        ↓
-SQL + Database Design
-        ↓
+   ↓
+SQL + PostgreSQL + SQLAlchemy
+   ↓
 Angular + TypeScript
-        ↓
-Docker + Cloud
-        ↓
+   ↓
+Docker + Google Cloud
+   ↓
+Generative AI
+   ↓
 Scalable & Maintainable Systems
 ```
+
+---
+
+## 🔥 What I'm Building
+
+I’m continuously building practical projects around:
+
+- RESTful APIs and backend services
+- Database-driven applications
+- Authentication and authorization
+- Angular + FastAPI full-stack applications
+- Dockerized cloud applications
+- Google Cloud deployments
+- AI-enabled software applications
+- Developer tooling and portfolio projects
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veera8519&show_icons=true&theme=transparent&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera8519&layout=compact&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=veera8519&show_icons=true&theme=transparent&hide_border=true" height="165" alt="Veera's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veera8519&layout=compact&theme=transparent&hide_border=true" height="165" alt="Veera's top languages" />
 </p>
-
----
-
-## 🔥 What I'm Building
-
-I’m continuously building and improving projects around:
-
-- RESTful APIs
-- Backend services
-- Database-driven applications
-- Authentication and authorization systems
-- Angular full-stack applications
-- Cloud-ready services
-- Developer tooling and portfolio projects
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in connecting with developers, engineers, and technology professionals working on **Python, FastAPI, Angular, backend engineering, APIs, databases, and cloud technologies**.
+I'm interested in connecting with developers and technology professionals working on **Python, FastAPI, Angular, backend engineering, APIs, databases, cloud, and Generative AI**.
 
 📧 **Email:** Add your professional email
 
@@ -150,8 +177,8 @@ I'm interested in connecting with developers, engineers, and technology professi
 
 > **Build it. Understand it. Improve it. Ship it.**
 
-I believe the best way to grow as an engineer is to continuously **build real projects, understand the technology underneath them, solve problems, and improve through iteration.**
+I believe strong engineering comes from **building real systems, understanding the technology underneath them, solving meaningful problems, and continuously improving through iteration.**
 
 ---
 
-⭐ If you find any of my projects useful, consider giving them a star!
+⭐ If you find one of my projects useful, consider giving it a star!
