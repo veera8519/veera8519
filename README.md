@@ -102,6 +102,25 @@ I focus on turning requirements into reliable systems through **clean architectu
 
 ---
 
+## 🛠️ Skills
+
+| Skill Area | Technologies & Expertise |
+|---|---|
+| 🐍 **Backend Development** | Python · FastAPI · REST APIs · Pydantic · SQLAlchemy |
+| 💙 **.NET Full Stack** | C# · .NET · ASP.NET Core · Web APIs · Entity Framework Core |
+| 🅰️ **Frontend Development** | Angular · TypeScript · RxJS · HTML5 · CSS3 |
+| ⚛️ **React Development** | React · JavaScript · TypeScript · Hooks · REST API Integration |
+| 🗄️ **Database Engineering** | SQL · PostgreSQL · SQLite · MongoDB · Database Design · Query Optimization |
+| ☁️ **Cloud & DevOps** | Google Cloud · Cloud Run · Docker · GitHub Actions · CI/CD |
+| 🔐 **Security** | JWT · OAuth2 · Authentication · Authorization · OWASP Practices |
+| 🧪 **Testing & Quality** | Unit Testing · Integration Testing · API Testing · Clean Code |
+| 🤖 **Generative AI** | LLMs · RAG · AI Applications · Prompt Engineering · AI-assisted Development |
+| 🧠 **AI Engineering** | AI Agents · Tools · APIs · Automation · Developer Productivity |
+| 🏗️ **Software Architecture** | Clean Architecture · Microservices · Scalable Systems · API Architecture |
+| 🔧 **Developer Tools** | Git · GitHub · VS Code · Postman · REST APIs |
+
+---
+
 ## 🧩 Technical Expertise
 
 | Area | Core Capabilities |
@@ -136,18 +155,6 @@ Database-backed backend project demonstrating SQLAlchemy integration, database s
 [View repository →](https://github.com/veera-reddy-dev/Fast-api--connectiondatabase)
 
 > Course and tutorial repositories are kept private and are intentionally excluded from the public portfolio. This profile highlights engineering work that is most relevant to professional software development.
-
----
-
-## 🏗️ Engineering Roadmap
-
-| Project | Stack | Engineering Outcome |
-|---|---|---|
-| 🚀 **Production API Platform** | FastAPI · PostgreSQL · Docker · GCP | Production backend engineering |
-| 💙 **Enterprise Full Stack App** | .NET · Angular/React · EF Core | Full-stack application architecture |
-| 🧩 **Microservices Platform** | .NET/FastAPI · Docker · APIs | Distributed systems & scalability |
-| 🤖 **AI Application** | Python · LLM · RAG · PostgreSQL | Generative AI engineering |
-| 🧠 **AI Engineering Agent** | Python · Agents · Tools · APIs | AI automation & developer productivity |
 
 ---
 
